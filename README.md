@@ -1,2 +1,4 @@
 # Tic-Tac-Toe
-Coding Practice
+For Coding Practice
+
+Its tic-tac-toe, but on a poorly written program.
